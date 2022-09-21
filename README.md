@@ -1,7 +1,9 @@
 # testepratico
 Teste pratico da Target Sistemas
 
-<p> Acesse: [(https://thiagoxporfirio.github.io/testepratico/)]<p>
+```bash
+Acesse: https://thiagoxporfirio.github.io/testepratico/
+```
 
 # Sobre
 <p>Se trata de uma lista de exercicios onde coloquei os valores finais todos no console.</p>
@@ -12,7 +14,7 @@ Teste pratico da Target Sistemas
 ## :gear: gitClone
 1. Clone o projeto.
 ```bash
-git clone https://github.com/thiagovporfirio/MexendoelementosHTML.git
+git clone https://github.com/thiagoxporfirio/testepratico.git
 ```
 
 
